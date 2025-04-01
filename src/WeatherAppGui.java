@@ -79,6 +79,7 @@ public class WeatherAppGui extends JFrame {
                 if (userInput.replaceAll("\\s", "").length() <= 0) {
                     return;
                 }
+                weatherData = WeatherApp.getWeatherData(userInput);
                 String weatherCondition = (String) weatherData.get("weather_condition");
                 switch(weatherCondition){
                     case "Clear":
