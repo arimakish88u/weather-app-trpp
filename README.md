@@ -1,6 +1,6 @@
 
 # Приложение Погода на Java
-![image](https://github.com/user-attachments/assets/cffb9e35-fed6-4f84-bdf8-c1d504d9fec2)
+![ezgif-61e42b1b4911ce](https://github.com/user-attachments/assets/2dea4ecd-870a-4150-98aa-7cb006f8be73)
 
 # Описание
 Приложение выполняет роль минималистичного помощника, способного по вводу нужного Вам города показывать его температуру, влажность и скорость ветра(InTime)
